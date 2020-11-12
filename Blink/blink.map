@@ -1,0 +1,44 @@
+MPLINK 4.49, Linker
+Linker Map File - Created Wed Oct 14 15:00:29 2020
+
+                                 Section Info
+                  Section       Type    Address   Location Size(Bytes)
+                ---------  ---------  ---------  ---------  ---------
+                   .org_0       code   0x000000    program   0x000000
+                   .org_1       code   0x000000    program   0x000004
+                   .org_2       code   0x000008    program   0x000002
+                   .org_3       code   0x000018    program   0x000214
+
+
+
+                              Program Memory Usage 
+                               Start         End      
+                           ---------   ---------      
+                            0x000000    0x000003      
+                            0x000008    0x000009      
+                            0x000018    0x00022b      
+            538 out of 33048 program addresses used, program memory utilization is 1%
+
+
+
+                              Symbols - Sorted by Name
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                   again1   0x00002e    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                   again2   0x000032    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                    delay   0x00002a    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                     loop   0x00001c    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                    start   0x00001a    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+
+
+
+                              Symbols - Sorted by Address
+                     Name    Address   Location    Storage File                     
+                ---------  ---------  ---------  --------- ---------                
+                    start   0x00001a    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                     loop   0x00001c    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                    delay   0x00002a    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                   again1   0x00002e    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+                   again2   0x000032    program     static C:\Users\dicks\OneDrive - Universiti Tenaga Nasional\SEM_1_2020_2021\EEED253\Tutorial\Seven_Segment\blink.asm
+
+
